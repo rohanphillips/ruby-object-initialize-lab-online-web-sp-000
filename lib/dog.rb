@@ -1,7 +1,7 @@
 
 class Dog
   attr_accessor :name, :breed
-  initialize(name, breed = "Mutt")
+  initialize(name, breed)
     @name = name
     @breed = breed
   end
