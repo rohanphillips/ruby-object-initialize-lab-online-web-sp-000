@@ -1,4 +1,4 @@
-class Person(new_name)
+class Person()
   attr_accessor :name
 
 end
